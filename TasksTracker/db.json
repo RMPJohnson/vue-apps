@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Morning Walk",
+      "day": "Monday 1st at 7:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "BreakFast with Family",
+      "day": "Monday 1st at 8:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Doctor Appointment",
+      "day": "Monday 1st at 10:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "4",
+      "text": "Meeting with Boss",
+      "day": "Monday 1st at 11:00 AM",
+      "reminder": true
+    },
+    {
+      "id": 70964,
+      "text": "Lunch Break with friends",
+      "day": "Monday 1st at 1:00 PM",
+      "reminder": true
+    },
+    {
+      "id": 28688,
+      "text": "Dentist apointment",
+      "day": "Monday 1st at 3:00 PM",
+      "reminder": true
+    }
+  ]
+}
