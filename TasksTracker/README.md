@@ -1,4 +1,5 @@
-# tasks-tracker
+# TaskTracker Version 1.0 
+This is just a basic vue app that has number of different views and json server is used to store data. 
  
 ## Project setup
 ```
